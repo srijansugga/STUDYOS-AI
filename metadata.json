@@ -1,0 +1,8 @@
+{
+  "name": "STUDYOS — BTech Semester Success System",
+  "description": "AI-powered personal tutor, syllabus organizer, and semester exam preparation workspace for first-year BTech engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
